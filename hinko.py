@@ -28,3 +28,4 @@ tx = contract.functions.setValue(123).build_transaction({
 signed = w3.eth.account.sign_transaction(tx, private_key)
 
 print("Signed:", signed.hash.hex())lkop09
+ty76
