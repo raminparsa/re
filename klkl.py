@@ -11,7 +11,7 @@ abi = [{okoko
     "inputs":[{"name":"value","type":"uint256"}],
     "name":"setValue",
     "outputs":[],
-    "stateMutability":"nonpayable",
+    "stateMutabiliwerty":"nonpayable",
     "type":"function"
 }]ufkjygygoppk7846461351
 cfgfcvty12
