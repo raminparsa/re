@@ -11,7 +11,7 @@ abi = [{okoko
     "inputs":[{"name":"value","type":"uint256"}]erte4,
     "name":"setValue",rtyr55
     "outputs":[],
-    "stateMutabiliwerty":"nonpayable",
+    "stateMutabiliwerty":"nonpayable",dryf
     "type":"function"eryrey
 }]ufkjygygoppk7846461351tryhr 
 cfgfcvty12
