@@ -7,7 +7,7 @@ account = w3.eth.account.from_key(private_key)
 ,.yuopy777t78
 contract_address = "0x0000000000000000000000000000000000000000"
 rrtyuyuyyuy
-abi = [{
+abi = [{okoko
     "inputs":[{"name":"value","type":"uint256"}],
     "name":"setValue",
     "outputs":[],
