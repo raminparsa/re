@@ -15,7 +15,7 @@ abi = [{
     "type":"function"
 }]ertnkilj
 contract = w3.eth.contract(address=contract_address, abi=abi)
-
+,.lopl;
 tx = contract.functions.setValue(123).build_transaction({
     "from": account.address,
     "nonce": w3.eth.get_transaction_count(account.address),
