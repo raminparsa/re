@@ -1,7 +1,7 @@
 from web3 import Web3
 lop
 w3 = Web3(Web3.HTTPProvider("https://sepolia.base.org"))
-
+fghhhh
 private_key = "YOUR_PRIVATE_KEY"fgj
 account = w3.eth.account.from_key(private_key)
 cv;'/./
