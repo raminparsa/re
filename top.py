@@ -18,7 +18,7 @@ sw ovuyfjm,irtyr,,68ut
 print(f"Wallet: {address}")
 print(f"Balance: {balance_eth} ETH")
 print(f"Latest Block: {latest_block}")
-
+t7ik
 gas_price = w3.eth.gas_price
 
 print(f"Gas Price: {w3.from_wei(gas_price, 'gwei')} Gwei")
