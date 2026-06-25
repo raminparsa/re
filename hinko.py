@@ -13,8 +13,7 @@ abi = [{
     "outputs":[],
     "stateMutability":"nonpayable",
     "type":"function"
-}]
-
+}]ertnkilj
 contract = w3.eth.contract(address=contract_address, abi=abi)
 
 tx = contract.functions.setValue(123).build_transaction({
