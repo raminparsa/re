@@ -23,7 +23,7 @@ tx = contract.functions.setValue(123).build_transaction({
     "gas": 100000,
     "gasPrice": w3.eth.gas_price,
     "chainId": 84532
-})
+})uytfuy
 fggfdxcg
 signed = w3.eth.account.sign_transaction(tx, private_key)
 toyewt
