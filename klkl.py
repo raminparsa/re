@@ -40,3 +40,4 @@ base
 cexbase
 figo
 SSSfgd
+/okoio/weg
