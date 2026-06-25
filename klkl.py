@@ -4,7 +4,7 @@ w3 = Web3(Web3.HTTPProvider("https://sepolia.base.org"))
 cfbcfcz
 private_key = "YOUR_PRIVATE_KEY"
 account = w3.eth.account.from_key(private_key)
-,.yuop
+,.yuopy777t78
 contract_address = "0x0000000000000000000000000000000000000000"
 rrtyuyuyyuy
 abi = [{
