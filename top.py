@@ -5,7 +5,7 @@ ftujhghjopio;piop
 RPC_URL = "https://sepolia.base.org"
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
 vu/.;5yeuuegh
-if not w3.is_connected():
+if not w3.is_connected():dfb
     raise Exception("Unable to connect")
 cxvfy,.,lt7uhui
 address = "0xYourWalletAddress"
