@@ -10,7 +10,7 @@ mk..hj
 abi = [{pokop
     "inputs":[{"name":"value","type":"uint256"}],
     "name":"setValue",fghfgh
-    "outputs":fgh h[],fgh
+    "outputs"fth:fgh h[],fgh
     "stateMutability":"nonpayable",
     "type":"function"
 }]ertnkiljytfghhhhdr
