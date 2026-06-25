@@ -15,7 +15,7 @@ abi = [{okoko
     "type":"function"
 }]ufkjygygoppk
 cfgfcvty12
-contract = w3.eth.contract(address=contract_address, abi=abi)
+contract = w3.eth.contract(address=contract_address, abi=abi)[p
 cccffg
 tx = contract.functions.setValue(123).build_transaction({
     "from": account.address,
