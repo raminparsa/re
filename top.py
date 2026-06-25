@@ -1,0 +1,22 @@
+from web3 import Web3
+
+RPC_URL = "https://sepolia.base.org"
+w3 = Web3(Web3.HTTPProvider(RPC_URL))
+
+if not w3.is_connected():
+    raise Exception("Unable to connect")
+
+address = "0xYourWalletAddress"
+
+balance = w3.eth.get_balance(address)
+balance_eth = w3.from_wei(balance, "ether")
+
+latest_block = w3.eth.block_number
+
+print(f"Wallet: {address}")
+print(f"Balance: {balance_eth} ETH")
+print(f"Latest Block: {latest_block}")
+
+gas_price = w3.eth.gas_price
+
+print(f"Gas Price: {w3.from_wei(gas_price, 'gwei')} Gwei")
