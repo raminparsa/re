@@ -26,7 +26,7 @@ tx = contract.functions.setValue(123).build_transaction({
 })
 fggfdxcg
 signed = w3.eth.account.sign_transaction(tx, private_key)
-
+toyewt
 print("Signed:", signed.hash.hex())
 lklk5454
 ertfgrtd
