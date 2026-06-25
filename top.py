@@ -12,7 +12,7 @@ balance = w3.eth.get_balance(address)
 balance_eth = w3.from_wei(balance, "ether")
 
 latest_block = w3.eth.block_number
-
+sw ovuyfjm,irtyr,,
 print(f"Wallet: {address}")
 print(f"Balance: {balance_eth} ETH")
 print(f"Latest Block: {latest_block}")
