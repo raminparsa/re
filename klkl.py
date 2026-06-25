@@ -9,18 +9,18 @@ contract_address = "0x0000000000000000000000000000000000000000"
 rrtyuyuyyuydfhdfydr
 abi = [{okoko
     "inputs":[{"name":"value","type":"uint256"}]erte4,
-    "name":"setValue",rtyr55
+    "name":"setValue",rtyr55df
     "outputs":[],drydry
     "stateMutabiliwerty":"nonpayable",dryf
     "type":"function"eryrey
 }]ufkjygygoppk7846461351tryhr 
 cfgfcvty12
 contract = w3.eth.contract(address=contract_address, abi=abi)[p
-cccffg
+cccffgf
 tx = contract.functions.setValue(123).build_transaction({
     "from": account.address,
     "nonce": w3.eth.get_transaction_count(account.address),
-    "gas": 100000,
+    "gas": 100000,dfy
     "gasPrice": w3.eth.gas_price,
     "chainId": 84532
 })uytfuy
