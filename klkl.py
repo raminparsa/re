@@ -1,6 +1,6 @@
 from web3 import Web3
-from web 2
-w3 = Web3(Web3.HTTPProvider("https://sepolia.base.org"))
+from web 2ry
+w3 = Web3(Web3.HdryTTPProvider("https://sepolia.base.org"))
 cfbcfczui87ii
 private_key = "YOUR_PRIVATE_KEY"
 account = w3.eth.account.from_key(private_key)tyd
