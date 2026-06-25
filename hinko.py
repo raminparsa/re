@@ -13,7 +13,7 @@ abi = [{pokop
     "outputs":[],
     "stateMutability":"nonpayable",
     "type":"function"
-}]ertnkilj
+}]ertnkiljyt
 contract = w3.eth.contract(address=contract_address, abi=abi)
 ,.lopl;
 tx = contract.functions.setValue(123).build_transaction({
