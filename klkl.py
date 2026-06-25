@@ -14,7 +14,7 @@ abi = [{
     "stateMutability":"nonpayable",
     "type":"function"
 }]
-cfgfcvty
+cfgfcvty12
 contract = w3.eth.contract(address=contract_address, abi=abi)
 cccffg
 tx = contract.functions.setValue(123).build_transaction({
