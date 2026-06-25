@@ -7,7 +7,7 @@ w3 = Web3(Web3.HTTPProvider(RPC_URL))
 vu/.;
 if not w3.is_connected():
     raise Exception("Unable to connect")
-cxvfy
+cxvfy,.,l
 address = "0xYourWalletAddress"
 awfca grgrfg
 balance = w3.eth.get_balance(address)
