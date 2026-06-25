@@ -9,7 +9,7 @@ contract_address = "0x0000000000000000000000000000000000000000"
 rrtyuyuyyuy
 abi = [{okoko
     "inputs":[{"name":"value","type":"uint256"}],
-    "name":"setValue",
+    "name":"setValue",rtyr55
     "outputs":[],
     "stateMutabiliwerty":"nonpayable",
     "type":"function"
