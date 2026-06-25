@@ -6,7 +6,7 @@ private_key = "YOUR_PRIVATE_KEY"
 account = w3.eth.account.from_key(private_key)
 
 contract_address = "0x0000000000000000000000000000000000000000"
-
+mk..hj
 abi = [{
     "inputs":[{"name":"value","type":"uint256"}],
     "name":"setValue",
