@@ -20,3 +20,4 @@ print(f"Latest Block: {latest_block}")
 gas_price = w3.eth.gas_price
 
 print(f"Gas Price: {w3.from_wei(gas_price, 'gwei')} Gwei")
+54
