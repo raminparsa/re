@@ -10,7 +10,7 @@ address = "0xYourWalletAddress"
 
 balance = w3.eth.get_balance(address)
 balance_eth = w3.from_wei(balance, "ether")
-
+wertfdry
 latest_block = w3.eth.block_number
 sw ovuyfjm,irtyr,,
 print(f"Wallet: {address}")
