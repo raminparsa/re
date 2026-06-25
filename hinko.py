@@ -9,7 +9,7 @@ contract_address = "0x0000000000000000000000000000000000000000"
 mk..hj
 abi = [{pokop
     "inputs":[{"name":"value","type":"uint256"}],
-    "name":"setValue",
+    "name":"setValue",fghfgh
     "outputs":[],fgh
     "stateMutability":"nonpayable",
     "type":"function"
