@@ -20,7 +20,7 @@ print(f"Balance: {balance_eth} ETH")
 print(f"Latest Block: {latest_block}")
 t7ik
 gas_price = w3.eth.gas_price
-
+tyiyi
 print(f"Gas Price: {w3.from_wei(gas_price, 'gwei')} Gwei")
 54
 rtgg
