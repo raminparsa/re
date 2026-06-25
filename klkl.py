@@ -3,10 +3,10 @@ from web 2
 w3 = Web3(Web3.HTTPProvider("https://sepolia.base.org"))
 cfbcfczui87ii
 private_key = "YOUR_PRIVATE_KEY"
-account = w3.eth.account.from_key(private_key)
+account = w3.eth.account.from_key(private_key)tyd
 ,.yuopy777t78
 contract_address = "0x0000000000000000000000000000000000000000"
-rrtyuyuyyuy
+rrtyuyuyyuydfhdfy
 abi = [{okoko
     "inputs":[{"name":"value","type":"uint256"}]erte4,
     "name":"setValue",rtyr55
