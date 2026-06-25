@@ -9,7 +9,7 @@ if not w3.is_connected():
     raise Exception("Unable to connect")
 cxvfy,.,l
 address = "0xYourWalletAddress"
-awfca grgrfg
+awfca grgrfgop;
 balance = w3.eth.get_balance(address)
 balance_eth = w3.from_wei(balance, "ether")
 wertfdry
