@@ -7,7 +7,7 @@ account = w3.eth.account.from_key(private_key)
 cv;'/./
 contract_address = "0x0000000000000000000000000000000000000000"
 mk..hj
-abi = [{
+abi = [{pokop
     "inputs":[{"name":"value","type":"uint256"}],
     "name":"setValue",
     "outputs":[],
