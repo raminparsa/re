@@ -13,7 +13,7 @@ abi = [{okoko
     "outputs":[],
     "stateMutabiliwerty":"nonpayable",
     "type":"function"
-}]ufkjygygoppk7846461351
+}]ufkjygygoppk7846461351tryhr 
 cfgfcvty12
 contract = w3.eth.contract(address=contract_address, abi=abi)[p
 cccffg
