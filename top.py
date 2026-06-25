@@ -25,3 +25,4 @@ print(f"Gas Price: {w3.from_wei(gas_price, 'gwei')} Gwei")
 54
 rtgg
 gtthhj
+lolkk
