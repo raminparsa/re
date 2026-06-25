@@ -4,7 +4,7 @@ fthfngf
 ftujhghjop
 RPC_URL = "https://sepolia.base.org"
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
-vu/.;
+vu/.;5yeuue
 if not w3.is_connected():
     raise Exception("Unable to connect")
 cxvfy,.,l
