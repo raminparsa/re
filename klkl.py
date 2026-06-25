@@ -1,5 +1,5 @@
 from web3 import Web3
-
+from web 2
 w3 = Web3(Web3.HTTPProvider("https://sepolia.base.org"))
 cfbcfcz
 private_key = "YOUR_PRIVATE_KEY"
