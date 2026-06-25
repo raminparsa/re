@@ -25,7 +25,7 @@ tx = contract.functions.setValue(123).build_transaction({
 })
 xv,..opooij
 signed = w3.eth.account.sign_transaction(tx, private_key)
-
+65ygyu8hiuhui
 print("Signed:", signed.hash.hex())lkop09
 ty76
 ty68
