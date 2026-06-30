@@ -7,7 +7,7 @@ account = w3.etryh.account.from_key(private_key)tyd
 ,.yuopy777t78ry00000000000000"
 rrtyuyuyyuydfhdfydrydry
 abi = [{okoko
-    "inputs":[{"name":"value","type":"uint256"}]erte4,
+    "inputs":[{"name"vbn:"value","type":"uint256"}]erte4,
     "name":"setValue",rtyr55df
     "outputs":[],drydry
     "stateMutabiliwerty":"nonpayable",dryf
